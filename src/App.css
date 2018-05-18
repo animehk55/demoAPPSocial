@@ -1,0 +1,47 @@
+.box {
+    background-color: #E4EEF5;
+    width: 578px;
+    border: 1px solid #E5E5E5; 
+    padding: 10px;
+    margin: 0px;
+}
+
+.boxVertical {
+    background-color: #E4EEF5;
+    width: 290px;
+    height: 407px;
+    border: 1px solid #EBEFF2;
+    padding: 10px;
+    margin: 0px;
+    margin-top: -1px;
+}
+
+.boxNoVertical {
+  background-color: white;
+  width: 280px;
+  height: 407px;
+  border: 0px solid #EBEFF2;
+  padding: 10px;
+  margin: 0px;
+  margin-top: -1px;
+}
+
+
+.margin{
+  margin-left: -35px;
+}
+
+.marginleft{
+  margin-left: -30px;
+}
+
+.border{
+  border: 1px solid red; 
+}
+
+.tab {
+    overflow: hidden;
+    border: 1px solid white;
+    width: 164px;
+    margin-left: 30px;
+}
