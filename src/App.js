@@ -40,8 +40,8 @@ class App extends Component {
                 <div className="boxVertical">
                   <div ClassName="container">   
                   <div className="tab">
-                    <button className="tablinks" onclick="openCity(event, 'London')">By Groups</button>
-                    <button className="tablinks" onclick="openCity(event, 'Paris')">By Clients</button>
+                    <button className="tablinks" onclick="op(event, '')">By Groups</button>
+                    <button className="tablinks" onclick="op(event, '')">By Clients</button>
                   </div>
                     <div className="checkbox">
                        <label><input type="checkbox" value="" color="green"/>Select Account</label>
